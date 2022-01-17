@@ -49,6 +49,6 @@ Esse projeto foi feito no ambrito da unidade curicular de Seminário I do Curso 
 
 ## ✨ Apk Release
 
-Para teste <a href="https://github.com/VagnerBomJesus/workshops/blob/master/ipg.apk?raw=true"> App IPG </a>
+Para teste <a href="https://github.com/VagnerBomJesus/workshop/blob/master/ipg.apk?raw=true"> App IPG </a>
 
 
