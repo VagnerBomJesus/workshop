@@ -40,7 +40,7 @@ NOTA: Já a alguns anos um projeto idêntico foi feito por mim e funciona até o
 
 ## 🔶 Documentação
 
-Todo o projeto está documentado e citado no mideum do <a href="https://vagnerbomjesus.medium.com/">@vagnerbomjesus</a> divididos em 3 partes 
+Todo o projeto está documentado e citado no mideum do <a href="https://vagnerbomjesus.medium.com/list/workshops-de-seminario-i-flutter-8b53f343efc5">@vagnerbomjesus</a> divididos em 3 partes 
 
 ## 📄 Sobre 
 
