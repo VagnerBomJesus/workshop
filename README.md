@@ -1,8 +1,7 @@
 
 <h1 align="center">
-  <img alt="AppIPG" title="AppIPG" src="https://github.com/VagnerBomJesus/workshops/blob/master/assets/images/iconipg.png" width="50px" />
+  <img alt="AppIPG" title="AppIPG" src="https://politecnicoguarda.pt/wp-content/uploads/2021/12/logotop-01.svg" />
 </h1>
-<h1 align="center">App IPG</h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
